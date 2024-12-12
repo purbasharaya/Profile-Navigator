@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Purbasha Mandal",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQEhy5B3BjjaHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720511507592?e=1739404800&v=beta&t=YkoKCc__smd4ja_PPoLc_bVOAot7xhOVw-ToViaa9fQ",
+    "description": "Data Engineer",
+    "address": "Krishnanagar Sentrum, Krishnanagar, West Bengal"
+  },
+  {
+    "id": 2,
+    "name": "Shauri Thakare",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D35AQE--6Kz5TtSVw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1729532043772?e=1734588000&v=beta&t=tmA_6bNxExbAgrqF_MPOK4TFfL5cpQa3Oz0y-iKVJkE",
+    "description": "CA Intermediate",
+    "address": "Wadi, Nagpur, Maharashtra"
+  },
+  {
+    "id": 3,
+    "name": "Anne Hathaway",
+    "photo": "https://pyxis.nymag.com/v1/imgs/9bf/7c8/5e3aab4b90d7801089cdbdb9784c3fde42-18-anne-hathaway.rsquare.w330.jpg",
+    "description": "Actress",
+    "address": "Los Angeles, USA"
+  },
+  {
+    "id": 4,
+    "name": "Ian Somerhalder",
+    "photo": "https://favim.com/pd/s1/orig/140406/damon-salvatore-hot-ian-somerhalder-sexy-Favim.com-1617521.jpg",
+    "description": "American Actor",
+    "address": "LLC 100 North Irving Boulevard Los Angeles, CA 90004 USA"
+  },
+  {
+    "id": 5,
+    "name": "Nina Dobrev",
+    "photo": "https://www.usatoday.com/gcdn/presto/2019/04/30/USAT/256e2425-4e94-47c7-9544-32f4cc001bbb-GTY_1145078340.JPG?crop=3613,3634,x0,y43",
+    "description": "Canadian Actress",
+    "address": "6121 Sunset Blvd. Los Angeles, California 90028. USA"
+  },
+  {
+    "id": 6,
+    "name": "Candice King",
+    "photo": "https://www.programme-tv.net/imgre/fit/~1~tel~2023~04~18~efb265b8-832c-4391-a300-889acc8892c4.jpeg/630x630/quality/80/focus-point/562,220/vampire-diaries-candice-king-caroline-revient-a-mystic-falls-les-fans-n-en-croient-pas-leurs-yeux-photos.jpg",
+    "description": "American actress",
+    "address": "Beverly Hills, CA 90209. USA "
+  },
+  {
+    "id": 7,
+    "name": "Bill Gates",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHv6LsdiUg1kw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695167344576?e=1739404800&v=beta&t=epr7B8X_cQVGSX4EcCQ-D1GDPNZAGjGmWTDcc5pweCU",
+    "description": "CEO of Microsoft",
+    "address": "Bill Gates's house ; Pacific lodge · Medina, Washington, United States"
+  },
+  {
+    "id": 8,
+    "name": "Sundar Pichai",
+    "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1739404800&v=beta&t=T4Lm3fggZFEfq_VyjnpkJGpVLbmlnthPtw8vBFMaq7g",
+    "description": "CEO of Google",
+    "address": "Westwind Way, Los Altos Hills, California, United States"
+  },
+  {
+    "id": 9,
+    "name": "Satya Nadella",
+    "photo": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1579726625483?e=1739404800&v=beta&t=elmmZzj7zXyxqlZXk1204bwrRuCyrHZwcTkFibW0WbA",
+    "description": "Chairman of Microsoft",
+    "address": "1 Microsoft Way, Redmond, Washington, 98052, United States"
+  }
+]
